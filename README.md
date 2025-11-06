@@ -1,73 +1,70 @@
-# Welcome to your Lovable project
+# 🧾 Resume Builder Pro
 
-## Project info
+**Project Type:** Interactive Resume Builder Web App
+**Tech Stack:** React (frontend), LocalStorage (data persistence)
 
-**URL**: https://lovable.dev/projects/bbc8a2f1-2b82-4115-8a9e-db3a6630df7f
+---
 
-## How can I edit this code?
+## 🎨 Design Concept
 
-There are several ways of editing your application.
+* **Split-Screen Layout:** Editor on the left, live resume preview on the right.
+* **Modern UI:** Professional blue/teal gradient theme with a minimal, responsive design.
+* **Smooth UX:** Clean typography, modular sections, and subtle transitions for an elegant editing experience.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bbc8a2f1-2b82-4115-8a9e-db3a6630df7f) and start prompting.
+## ⚙️ Core Features
 
-Changes made via Lovable will be committed automatically to this repo.
+### 🔄 Live Preview
 
-**Use your preferred IDE**
+Instantly updates the resume as you type, providing a real-time editing experience.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🎨 Multiple Templates
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Choose from **ATS-compliant** designs that fit different professional styles:
 
-Follow these steps:
+* **Classic:** Simple, clean, corporate look.
+* **Two-Column:** Sidebar layout for a modern professional feel.
+* **Creative:** Timeline-style design with a gradient header.
+* **Executive:** Elegant serif design ideal for senior or executive roles.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### ✅ ATS Compliance
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Clean HTML structure, text-based formatting (no images blocking content), ensuring full compatibility with applicant tracking systems.
 
-# Step 3: Install the necessary dependencies.
-npm i
+### ➕ Dynamic Sections
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Add or remove work experience, education, and skills as needed.
 
-**Edit a file directly in GitHub**
+### ✍️ Rich Text Editing
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Supports **bold**, *italic*, and bullet lists in summaries and experience descriptions.
 
-**Use GitHub Codespaces**
+### 🔗 Link Integration
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Include professional links such as **LinkedIn**, **GitHub**, and **Portfolio**.
 
-## What technologies are used for this project?
+### 💾 Auto Save
 
-This project is built with:
+Automatically saves user data in **browser localStorage**, allowing you to continue where you left off.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+### 🖨️ Print / Export
 
-## How can I deploy this project?
+Easily print or export resumes as **PDF** directly from the browser.
 
-Simply open [Lovable](https://lovable.dev/projects/bbc8a2f1-2b82-4115-8a9e-db3a6630df7f) and click on Share -> Publish.
+### 📱 Responsive Design
 
-## Can I connect a custom domain to my Lovable project?
+Optimized for desktop, tablet, and mobile devices.
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 🚀 Future Enhancements
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+* Cloud sync and user accounts integration.
+* Drag-and-drop section reordering.
+* AI-powered resume optimization (keyword and tone suggestions).
+* JSON import/export for sharing templates and data.
+
+---
+
+**Author:** Diego Hills
