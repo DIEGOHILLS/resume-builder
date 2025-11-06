@@ -67,4 +67,8 @@ Optimized for desktop, tablet, and mobile devices.
 
 ---
 
+<<<<<<< HEAD
 **Author:** Diego Hills
+=======
+**Author:** Diego Hills
+>>>>>>> 83fa9ee9c53efa44f8dfac3700d792e90e6eace2
