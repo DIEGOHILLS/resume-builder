@@ -1,73 +1,40 @@
-# Welcome to your Lovable project
+Project Name: Resume Builder Pro
 
-## Project info
+Type: Interactive Resume Builder Web App
+Tech Stack: React (frontend), LocalStorage (data persistence)
 
-**URL**: https://lovable.dev/projects/bbc8a2f1-2b82-4115-8a9e-db3a6630df7f
+Design Concept
 
-## How can I edit this code?
+Split-screen layout: Editor on the left, live resume preview on the right
 
-There are several ways of editing your application.
+Modern UI: Professional blue/teal gradient theme, minimal and responsive
 
-**Use Lovable**
+Smooth UX: Transitions, modular sections, clean typography
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bbc8a2f1-2b82-4115-8a9e-db3a6630df7f) and start prompting.
+Core Features
 
-Changes made via Lovable will be committed automatically to this repo.
+Live Preview: Updates instantly as the user types.
 
-**Use your preferred IDE**
+Multiple Templates:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Classic: Simple, clean, corporate look.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Two-Column: Sidebar layout (ATS-compliant).
 
-Follow these steps:
+Creative: Timeline-style with gradient header.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Executive: Elegant serif design for senior roles.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+ATS Compliance: Clean HTML structure, no graphics blocking text.
 
-# Step 3: Install the necessary dependencies.
-npm i
+Dynamic Sections: Add/remove work experience, education, or skills.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Rich Text Editing: Bold, italic, and bullet lists in summaries or experience descriptions.
 
-**Edit a file directly in GitHub**
+Link Integration: Dedicated fields for LinkedIn, GitHub, portfolio URLs.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Auto Save: Uses browser localStorage to remember your data for next session.
 
-**Use GitHub Codespaces**
+Print/Export: Easily print or save as PDF directly from browser.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/bbc8a2f1-2b82-4115-8a9e-db3a6630df7f) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Responsive: Works on desktop, tablet, and mobile.
