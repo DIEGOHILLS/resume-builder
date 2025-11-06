@@ -1,40 +1,70 @@
-Project Name: Resume Builder Pro
+# 🧾 Resume Builder Pro
 
-Type: Interactive Resume Builder Web App
-Tech Stack: React (frontend), LocalStorage (data persistence)
+**Project Type:** Interactive Resume Builder Web App
+**Tech Stack:** React (frontend), LocalStorage (data persistence)
 
-Design Concept
+---
 
-Split-screen layout: Editor on the left, live resume preview on the right
+## 🎨 Design Concept
 
-Modern UI: Professional blue/teal gradient theme, minimal and responsive
+* **Split-Screen Layout:** Editor on the left, live resume preview on the right.
+* **Modern UI:** Professional blue/teal gradient theme with a minimal, responsive design.
+* **Smooth UX:** Clean typography, modular sections, and subtle transitions for an elegant editing experience.
 
-Smooth UX: Transitions, modular sections, clean typography
+---
 
-Core Features
+## ⚙️ Core Features
 
-Live Preview: Updates instantly as the user types.
+### 🔄 Live Preview
 
-Multiple Templates:
+Instantly updates the resume as you type, providing a real-time editing experience.
 
-Classic: Simple, clean, corporate look.
+### 🎨 Multiple Templates
 
-Two-Column: Sidebar layout (ATS-compliant).
+Choose from **ATS-compliant** designs that fit different professional styles:
 
-Creative: Timeline-style with gradient header.
+* **Classic:** Simple, clean, corporate look.
+* **Two-Column:** Sidebar layout for a modern professional feel.
+* **Creative:** Timeline-style design with a gradient header.
+* **Executive:** Elegant serif design ideal for senior or executive roles.
 
-Executive: Elegant serif design for senior roles.
+### ✅ ATS Compliance
 
-ATS Compliance: Clean HTML structure, no graphics blocking text.
+Clean HTML structure, text-based formatting (no images blocking content), ensuring full compatibility with applicant tracking systems.
 
-Dynamic Sections: Add/remove work experience, education, or skills.
+### ➕ Dynamic Sections
 
-Rich Text Editing: Bold, italic, and bullet lists in summaries or experience descriptions.
+Add or remove work experience, education, and skills as needed.
 
-Link Integration: Dedicated fields for LinkedIn, GitHub, portfolio URLs.
+### ✍️ Rich Text Editing
 
-Auto Save: Uses browser localStorage to remember your data for next session.
+Supports **bold**, *italic*, and bullet lists in summaries and experience descriptions.
 
-Print/Export: Easily print or save as PDF directly from browser.
+### 🔗 Link Integration
 
-Responsive: Works on desktop, tablet, and mobile.
+Include professional links such as **LinkedIn**, **GitHub**, and **Portfolio**.
+
+### 💾 Auto Save
+
+Automatically saves user data in **browser localStorage**, allowing you to continue where you left off.
+
+### 🖨️ Print / Export
+
+Easily print or export resumes as **PDF** directly from the browser.
+
+### 📱 Responsive Design
+
+Optimized for desktop, tablet, and mobile devices.
+
+---
+
+## 🚀 Future Enhancements
+
+* Cloud sync and user accounts integration.
+* Drag-and-drop section reordering.
+* AI-powered resume optimization (keyword and tone suggestions).
+* JSON import/export for sharing templates and data.
+
+---
+
+**Author:** Diego Hills
